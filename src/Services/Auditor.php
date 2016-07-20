@@ -68,6 +68,14 @@ class Auditor implements AuditorContract
         return $this;
     }
 
+    /**
+     * Pass the Data Out as an Array
+     */
+    public function toArray()
+    {
+        return $this->createDataArray();
+
+    }
 
     /**
      * Render out the Audit

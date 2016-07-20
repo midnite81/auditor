@@ -34,5 +34,10 @@ interface Auditor
      * Render out the Audit
      */
     public function render();
+
+    /**
+     * Pass the Data Out as an Array
+     */
+    public function toArray();
     
 }
