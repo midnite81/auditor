@@ -16,7 +16,7 @@ Run `composer install` or `composer update` to download the dependencies or you 
 
 ##Laravel 5 Integration
 
-To use the package with Laravel 5 firstly add the LaravelTwoStep service provider to the list of service providers 
+To use the package with Laravel 5 firstly add the Auditor service provider to the list of service providers 
 in `app/config/app.php`.
 
     'providers' => [
