@@ -1,4 +1,4 @@
-#Auditor [![Latest Stable Version](https://poser.pugx.org/midnite81/auditor/version)](https://packagist.org/packages/midnite81/auditor) [![Total Downloads](https://poser.pugx.org/midnite81/auditor/downloads)](https://packagist.org/packages/midnite81/auditor) [![Latest Unstable Version](https://poser.pugx.org/midnite81/auditor/v/unstable)](https://packagist.org/packages/midnite81/auditor) [![License](https://poser.pugx.org/midnite81/auditor/license.svg)](https://packagist.org/packages/midnite/auditor)
+#Auditor [![Latest Stable Version](https://poser.pugx.org/midnite81/auditor/version)](https://packagist.org/packages/midnite81/auditor) [![Total Downloads](https://poser.pugx.org/midnite81/auditor/downloads)](https://packagist.org/packages/midnite81/auditor) [![Latest Unstable Version](https://poser.pugx.org/midnite81/auditor/v/unstable)](https://packagist.org/packages/midnite81/auditor) [![License](https://poser.pugx.org/midnite81/auditor/license.svg)](https://packagist.org/packages/midnite81/auditor)
 
 Auditor is a PHP package to retrieve audit json data from Laravel 5 and present it in table format.
 
